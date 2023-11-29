@@ -9,4 +9,15 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
+  --bg-color: #000028;
+  --text-color: #F1B2CE;
+  --accent-color: #FF0070;
+  --accent-text-color: #000028;
+  --main-font: 'IBM Plex Mono';
+  --main-title-color: #DB00FF;
+  --title-color: #FF0070;
+  --title-shadow-color: #FF0070;
+  --hover-outline: rgba(255, 0, 112, 0.40);
+  --rec-hidden: inline-flex;
+  --background-image: url(../images/cover-image-dark.png);
 }
